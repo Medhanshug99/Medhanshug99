@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Building new projects<br>🌱 Learning Generative AI (GenAI)<br>💬 Ask me about Competitive Programming<br>📫 medhanshp7@gmail.com<br>⚡ Fun fact: I question everything 😄
+🔭 Building new projects<br>🌱 Learning Generative AI (GenAI)<br>📫 medhanshp7@gmail.com<br>
 
 
 ## 🌐 Socials:
