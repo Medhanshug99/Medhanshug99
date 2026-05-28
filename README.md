@@ -11,7 +11,7 @@
 <!-- ░░░ TYPING SVG ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=818CF8&background=00000000&center=true&vCenter=true&width=620&lines=Full+Stack+%2B+ML+Developer+%F0%9F%A7%A0;MERN+%7C+Python+%7C+AI%2FML+Enthusiast;Building+Finx+AI+%E2%80%94+Gemini-powered+Finance;Always+Shipping.+Never+Stopping.+%E2%9A%A1;3rd+Year+%40+IIIT+Ranchi+%7C+B.Tech+CSE;Open+to+Collabs+%26+Open+Source+%F0%9F%A4%9D" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=818CF8&background=00000000&center=true&vCenter=true&width=620&lines=Full+Stack+%2B+ML+Developer+%F0%9F%A7%A0;MERN+%7C+Python+%7C+AI%2FML+Enthusiast;;Always+Shipping.+Never+Stopping.+%E2%9A%A1;3rd+Year+%40+IIIT+Ranchi+%7C+B.Tech+CSE;Open+to+Collabs+%26+Open+Source+%F0%9F%A4%9D" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -130,40 +130,87 @@ const medhansh: Developer = {
 
 <table width="100%">
 <thead><tr>
-  <th align="center" width="50%">💰 Finx AI</th>
-  <th align="center" width="50%">🤫 ConFessIt</th>
+  <th align="center" width="50%">🏠 Real Estate Price Predictor</th>
+  <th align="center" width="50%">♟️ Chess Web</th>
 </tr></thead>
 <tbody><tr>
 <td valign="top">
 
-&nbsp; ![Status](https://img.shields.io/badge/Status-In%20Progress-f59e0b?style=flat-square&logo=progress&logoColor=white)
+&nbsp; ![Status](https://img.shields.io/badge/Status-Live-22c55e?style=flat-square&logo=vercel&logoColor=white)
 
-An **AI-powered personal finance manager** — scan receipts via Gemini AI, get smart budget alerts, auto-generate monthly reports, and detect recurring transactions.
+A **full-stack ML web app** that predicts real estate prices and recommends properties based on user preferences — complete product with a clean UI, modular API, and custom ML pipeline.
 
-**Stack:**
-`React` &nbsp; `Node.js` &nbsp; `MongoDB` &nbsp; `Gemini API`
+![React](https://img.shields.io/badge/React_TS-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-<!-- 👉 Add actual repo URL -->
-[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/Medhanshug99)
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/Medhanshug99/Real-Estate-Price-Predictor)
+<!-- 👉 Uncomment and add Vercel link when deployed -->
+<!-- [![Live Demo](https://img.shields.io/badge/Live%20Demo-▶-3b82f6?style=flat-square)](https://your-vercel-link.vercel.app) -->
 
 </td>
 <td valign="top">
 
-&nbsp; ![Status](https://img.shields.io/badge/Status-Live-22c55e?style=flat-square&logo=vercel&logoColor=white) &nbsp; [![Demo](https://img.shields.io/badge/Live%20Demo-▶-3b82f6?style=flat-square)](https://github.com/Medhanshug99)
+&nbsp; ![Status](https://img.shields.io/badge/Status-In%20Progress-f59e0b?style=flat-square)
+&nbsp; ![WASM](https://img.shields.io/badge/WASM%20Engine-Planned-818cf8?style=flat-square&logo=webassembly&logoColor=white)
 
-An **anonymous confession platform** with JWT auth, HTTP-only cookies, category filtering, pagination, and an animated star-field background.
+A **clean, modern browser chess app** with full game logic running in TypeScript. Future goal: swap TS logic for a high-performance **C++ engine compiled to WebAssembly**.
 
-**Stack:**
-`React` &nbsp; `Express` &nbsp; `MongoDB` &nbsp; `JWT`
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++_(WASM%20soon)-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-<!-- 👉 Add actual repo URLs -->
-[![Frontend](https://img.shields.io/badge/Frontend-Repo-818cf8?style=flat-square&logo=github)](https://github.com/Medhanshug99) &nbsp; [![Backend](https://img.shields.io/badge/Backend-Repo-818cf8?style=flat-square&logo=github)](https://github.com/Medhanshug99)
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/Medhanshug99/chess-web)
 
 </td>
 </tr></tbody>
 </table>
 
-> 💡 **More projects** — [github.com/Medhanshug99 →](https://github.com/Medhanshug99) <!-- 👉 -->
+<br/>
+
+<table width="100%">
+<thead><tr>
+  <th align="center" width="50%">📊 Sort Simulator</th>
+  <th align="center" width="50%">☕ Urban Roast Café</th>
+</tr></thead>
+<tbody><tr>
+<td valign="top">
+
+&nbsp; ![Status](https://img.shields.io/badge/Status-Live-22c55e?style=flat-square&logo=vercel&logoColor=white)
+
+An **interactive sorting algorithm visualizer** — watch algorithms sort in real-time with adjustable array size, animation speed control, and random array generation.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/Medhanshug99/sort-simulator)
+
+</td>
+<td valign="top">
+
+&nbsp; ![Status](https://img.shields.io/badge/Status-Completed-22c55e?style=flat-square)
+&nbsp; ![Type](https://img.shields.io/badge/Internship%20Project-f472b6?style=flat-square)
+
+A **full-stack MERN café web app** built for a boutique café — fully custom recruiter-grade React frontend with zero UI frameworks. Secure Node.js/Express backend. Built as an internship assignment.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+
+<!-- 👉 Add repo link when available -->
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/Medhanshug99)
+
+</td>
+</tr></tbody>
+</table>
+
+> 💡 **More projects** — [github.com/Medhanshug99 →](https://github.com/Medhanshug99)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20&height=2&section=header" width="100%"/>
 
@@ -252,7 +299,7 @@ An **anonymous confession platform** with JWT auth, HTTP-only cookies, category 
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   &nbsp;
-  <a href="mailto:medhanshp7@example.com">
+  <a href="mailto:medhanshp7@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;
