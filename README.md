@@ -180,19 +180,19 @@ An **anonymous confession platform** with JWT auth, HTTP-only cookies, category 
 <!-- Row 1: streak + overall stats side by side -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Medhanshug99&theme=transparent&hide_border=false&border=818cf8&background=0d1117&stroke=818cf8&ring=818cf8&fire=f472b6&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=818cf8&sideLabels=94a3b8&dates=64748b&border_radius=8" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=Medhanshug99&show_icons=true&theme=transparent&hide_border=false&border_color=818cf8&bg_color=0d1117&title_color=818cf8&icon_color=818cf8&text_color=e2e8f0&ring_color=818cf8&border_radius=8&include_all_commits=true&count_private=true" height="170"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Medhanshug99&show_icons=true&theme=transparent&hide_border=false&border_color=818cf8&bg_color=0d1117&title_color=818cf8&icon_color=818cf8&text_color=e2e8f0&ring_color=818cf8&border_radius=8&include_all_commits=true&count_private=true" height="170"/> -->
 
 <!-- Row 2: top languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Medhanshug99&layout=compact&theme=transparent&hide_border=false&border_color=818cf8&bg_color=0d1117&title_color=818cf8&text_color=e2e8f0&border_radius=8&langs_count=10" height="160"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Medhanshug99&layout=compact&theme=transparent&hide_border=false&border_color=818cf8&bg_color=0d1117&title_color=818cf8&text_color=e2e8f0&border_radius=8&langs_count=10" height="160"/> -->
 
 </div>
 
 <br/>
 
 <!-- Trophies -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Medhanshug99&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" alt="Trophies"/>
-</div>
+</div> -->
 
 <br/>
 
@@ -244,7 +244,7 @@ An **anonymous confession platform** with JWT auth, HTTP-only cookies, category 
 
 <p align="center">
   <!-- 👉 Replace all links with your actual profiles -->
-  <a href="https://linkedin.com/in/Medhanshug99">
+  <a href="[https://www.linkedin.com/in/medhansh-poojari-16b242200](https://www.linkedin.com/in/medhansh-poojari-16b242200)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
@@ -252,11 +252,11 @@ An **anonymous confession platform** with JWT auth, HTTP-only cookies, category 
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   &nbsp;
-  <a href="mailto:medhansh@example.com">
+  <a href="mailto:medhanshp7@example.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;
-  <a href="https://twitter.com/Medhanshug99">
+  <a href="https://twitter.com">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </p>
