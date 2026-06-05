@@ -130,10 +130,26 @@ const medhansh: Developer = {
 
 <table width="100%">
 <thead><tr>
-  <th align="center" width="50%">🏠 Real Estate Price Predictor</th>
-  <th align="center" width="50%">♟️ Chess Web</th>
+  <th align="center" width="50%">DocuParse AI</th>
+  <th align="center" width="50%">Real Estate Price Predictor</th>
 </tr></thead>
 <tbody><tr>
+<td valign="top">
+
+&nbsp; ![Status](https://img.shields.io/badge/Status-Live-22c55e?style=flat-square&logo=vercel&logoColor=white)
+
+A **full-stack intelligent document processing platform** that eliminates manual data entry — upload invoices (PDF/PNG/JPG) and a fine-tuned **LayoutLMv3 + EasyOCR** pipeline extracts structured fields with confidence scoring, human-in-the-loop review, and JSON/XLSX export.
+
+![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/BullMQ%2FRedis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/Medhanshug99/docuparse-ai)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-▶-3b82f6?style=flat-square)](https://docuparse-ai.vercel.app/)
+
+</td>
 <td valign="top">
 
 &nbsp; ![Status](https://img.shields.io/badge/Status-Live-22c55e?style=flat-square&logo=vercel&logoColor=white)
@@ -147,10 +163,20 @@ A **full-stack ML web app** that predicts real estate prices and recommends prop
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 [![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/Medhanshug99/Real-Estate-Price-Predictor)
-<!-- 👉 Uncomment and add Vercel link when deployed -->
-<!-- [![Live Demo](https://img.shields.io/badge/Live%20Demo-▶-3b82f6?style=flat-square)](https://your-vercel-link.vercel.app) -->
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-▶-3b82f6?style=flat-square)](https://repropprice.vercel.app/)
 
 </td>
+</tr></tbody>
+</table>
+
+<br/>
+
+<table width="100%">
+<thead><tr>
+  <th align="center" width="50%">Chess Web</th>
+  <th align="center" width="50%">Sort Simulator</th>
+</tr></thead>
+<tbody><tr>
 <td valign="top">
 
 &nbsp; ![Status](https://img.shields.io/badge/Status-In%20Progress-f59e0b?style=flat-square)
@@ -165,17 +191,6 @@ A **clean, modern browser chess app** with full game logic running in TypeScript
 [![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/Medhanshug99/chess-web)
 
 </td>
-</tr></tbody>
-</table>
-
-<br/>
-
-<table width="100%">
-<thead><tr>
-  <th align="center" width="50%">📊 Sort Simulator</th>
-  <th align="center" width="50%">☕ Urban Roast Café</th>
-</tr></thead>
-<tbody><tr>
 <td valign="top">
 
 &nbsp; ![Status](https://img.shields.io/badge/Status-Live-22c55e?style=flat-square&logo=vercel&logoColor=white)
@@ -191,30 +206,35 @@ An **interactive sorting algorithm visualizer** — watch algorithms sort in rea
 [![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/Medhanshug99/sort-simulator)
 
 </td>
-<td valign="top">
+</tr></tbody>
+</table>
+
+<br/>
+
+<table width="100%">
+<thead><tr>
+  <th align="center" width="50%">Urban Roast Cafe</th>
+</tr></thead>
+<tbody><tr>
+<td valign="top" width="50%">
 
 &nbsp; ![Status](https://img.shields.io/badge/Status-Completed-22c55e?style=flat-square)
 &nbsp; ![Type](https://img.shields.io/badge/Internship%20Project-f472b6?style=flat-square)
 
-A **full-stack MERN café web app** built for a boutique café — fully custom recruiter-grade React frontend with zero UI frameworks. Secure Node.js/Express backend. Built as an internship assignment.
+A **full-stack MERN cafe web app** built for a boutique cafe — fully custom recruiter-grade React frontend with zero UI frameworks. Secure Node.js/Express backend. Built as an internship assignment.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 
-<!-- 👉 Add repo link when available -->
 [![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/Medhanshug99)
 
 </td>
 </tr></tbody>
 </table>
 
-> 💡 **More projects** — [github.com/Medhanshug99 →](https://github.com/Medhanshug99)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20&height=2&section=header" width="100%"/>
-
-<br/>
+> **More projects** — [github.com/Medhanshug99 →](https://github.com/Medhanshug99)
 
 <!-- ══════════════════════════════════════════════════════════════
   §4  GITHUB STATS
