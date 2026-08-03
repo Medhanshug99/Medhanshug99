@@ -4,9 +4,9 @@
   =============================================================== -->
 
 <!-- ░░░ HERO ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=260&section=header&text=Medhansh%20Poojari&fontSize=68&fontColor=FFFFFF&fontAlignY=40&desc=Full%20Stack%20%2B%20ML%20Developer%20%7C%20IIIT%20Ranchi&descSize=19&descAlignY=60&descColor=94a3b8&animation=twinkling" width="100%"/>
-</p>
+</p> -->
 
 <!-- ░░░ TYPING SVG ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <p align="center">
