@@ -42,7 +42,6 @@ const medhansh: Developer = {
   currentWork : "Building Finx AI — AI-powered personal finance manager",
   learning    : ["DSA", "Machine Learning", "System Design", "LLM fine-tuning"],
   askMeAbout  : ["MERN Stack", "REST APIs", "Auth flows", "Python & ML pipelines"],
-  funFact     : "I turn ☕  into full-stack + ML applications — sometimes at 2 AM",
 };
 ```
 
