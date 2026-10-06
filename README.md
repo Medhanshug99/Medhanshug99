@@ -48,7 +48,7 @@ More on [github.com/Medhanshug99](https://github.com/Medhanshug99).
 
 | Project | Contribution | Link |
 |---|---|---|
-| **[typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)** | Fixed `no-confusing-void-expression` so it no longer autofixes into invalid TypeScript (TS2355) when a function's declared return type is `unknown`. The rule now checks the enclosing function's declared return type, including unwrapping `Promise<T>` for async functions, and I updated and added tests to cover it. **Merged** (Oct 2026). | [PR #12930](https://github.com/typescript-eslint/typescript-eslint/pull/12930) · Fixes [#12761](https://github.com/typescript-eslint/typescript-eslint/issues/12761) |
+| | **[typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)** | Fixed a bug in the `no-confusing-void-expression` rule where the autofix produced invalid TypeScript (TS2355) when a function's declared return type was `unknown` or a generic type parameter like `T`. The autofix now applies only when the declared return type allows an empty return. Added sync and async regression tests, bringing the modified rule to 100% test coverage. Reviewed by the maintainers and **merged** (Oct 2026). | [PR #12930](https://github.com/typescript-eslint/typescript-eslint/pull/12930) · Fixes [#12761](https://github.com/typescript-eslint/typescript-eslint/issues/12761) |
 
 ---
 
