@@ -15,7 +15,7 @@ I ship end-to-end products — frontend, backend, and the AI/ML layer that makes
 - **DocuParse AI** — a document processing platform (LayoutLMv3 + OCR) for teams tired of manually copying invoice data into spreadsheets.
 - **Real Estate Price Predictor** — a full-stack ML app that prices and recommends properties, built for buyers who want a number they can trust before they call an agent.
 
-I'm a 3rd-year CS student at IIIT Ranchi, but I build like the users are already waiting.
+I'm a 3rd-year CS student at IIIT Ranchi, but I build like the users are already waiting. I also contribute to open source — most recently a merged fix to [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint).
 
 ---
 
@@ -37,10 +37,18 @@ I'm a 3rd-year CS student at IIIT Ranchi, but I build like the users are already
 | **Real Estate Price Predictor** | Full-stack ML app for price prediction and property recommendations | [Repo](https://github.com/Medhanshug99/Real-Estate-Price-Predictor) · [Live](https://repropprice.vercel.app/) |
 | **Chess Web** | Browser chess app, full game logic in TypeScript — next up: swapping in a C++ engine compiled to WASM | [Repo](https://github.com/Medhanshug99/chess-web) |
 | **Sort Simulator** | Real-time sorting algorithm visualizer with adjustable speed and array size | [Repo](https://github.com/Medhanshug99/sort-simulator) |
-| **Urban Roast Cafe** | Full MERN stack cafe site, custom frontend with zero UI frameworks — built during an internship | [Repo](https://github.com/Medhanshug99) |
+| **Urban Roast Cafe** | Full MERN stack cafe site, custom frontend with zero UI frameworks — built during an internship | [Repo](https://github.com/Medhanshug99/urban-roast-cafe) |
 | **Finx AI** *(in progress)* | AI-powered personal finance manager — tracking and insights without spreadsheets, built on React, Node.js, and the Gemini API | — |
 
 More on [github.com/Medhanshug99](https://github.com/Medhanshug99).
+
+---
+
+### Open source contributions
+
+| Project | Contribution | Link |
+|---|---|---|
+| **[typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)** | Fixed `no-confusing-void-expression` so it no longer autofixes into invalid TypeScript (TS2355) when a function's declared return type is `unknown`. The rule now checks the enclosing function's declared return type, including unwrapping `Promise<T>` for async functions, and I updated and added tests to cover it. **Merged** (Oct 2026). | [PR #12930](https://github.com/typescript-eslint/typescript-eslint/pull/12930) · Fixes [#12761](https://github.com/typescript-eslint/typescript-eslint/issues/12761) |
 
 ---
 
